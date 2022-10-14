@@ -3,7 +3,7 @@ import Image from "next/image";
 import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
 import { BsHeartFill } from "react-icons/bs";
-import Layout from "../components/layout";
+import Layout from "../components/Layout";
 import Rotate from 'react-reveal';
 
 const Favorite = () => {
